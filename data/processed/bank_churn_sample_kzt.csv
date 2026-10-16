@@ -1,0 +1,9 @@
+client_id,city_name,spend_30d_kzt,spend_change_pct,qr_tx_cnt_30d,p2p_tx_cnt_30d,support_calls_30d,monthly_ltv_margin_kzt,predicted_churn_prob,is_churned
+2001,Almaty,45000,-62.5,2,1,2,18500,0.88,1
+2002,Astana,310000,12.0,34,18,0,24000,0.12,0
+2003,Shymkent,28000,-71.0,1,0,3,15200,0.92,1
+2004,Karaganda,64000,-48.0,4,2,1,16800,0.74,1
+2005,Almaty,420000,5.4,41,22,0,31000,0.08,0
+2006,Aktobe,51000,-55.0,3,1,2,19000,0.81,1
+2007,Astana,195000,-10.0,19,9,0,14500,0.29,0
+2008,Atyrau,39000,-66.0,2,1,1,22500,0.85,1
